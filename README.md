@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+PythonFastAPI;Computer+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,64 +40,79 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Amir01Mahdi01Mahboubi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nextjs,typescript,cs,qt,tailwind,numpy,html,css,js,git,github,vscode&perline=8" />
 </p>
 
 ---
 
 ## 📜 Publications & Research
 
-| Title | Focus | Link |
-|-------|-------|------|
-| **A Study on a Digital Platform-Based Korean Language Education Model for Iranian Learners: Focusing on the Case of YEIN Academy** | EdTech, Korean Language Learning, Digital Platforms | [📄 DOI: 10.6084/m9.figshare.32907221](https://doi.org/10.6084/m9.figshare.32907221) |
-| **Comparative Review of DNA and RNA Sequence Analysis Tools in Modern Bioinformatics** | Bioinformatics, Computational Genomics, Sequence Analysis | [📄 DOI: 10.5281/zenodo.20763536](https://doi.org/10.5281/zenodo.20763536) |
+<p align="center">
+  <a href="https://doi.org/10.6084/m9.figshare.32907221">
+    <img src="https://img.shields.io/badge/📄_Korean_Language_EdTech_Model-FF6B6B?style=for-the-badge&logo=doi&logoColor=white" />
+  </a>
+  <a href="https://doi.org/10.5281/zenodo.20763536">
+    <img src="https://img.shields.io/badge/📄_Bioinformatics_Review-4ECDC4?style=for-the-badge&logo=doi&logoColor=white" />
+  </a>
+</p>
 
-🔗 **ORCID:** [orcid.org/0009-0007-8924-4421](https://orcid.org/0009-0007-8924-4421)  
-🔗 **ResearchGate:** [Amir-Mahdi-Mahboubi](https://www.researchgate.net/profile/Amir-Mahdi-Mahboubi)
+<p align="center">
+  <a href="https://orcid.org/0009-0007-8924-4421"><img src="https://img.shields.io/badge/ORCID-0009--0007--8924--4421-A6CE39?style=flat&logo=orcid&logoColor=white" /></a>
+  <a href="https://www.researchgate.net/profile/Amir-Mahdi-Mahboubi"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat&logo=researchgate&logoColor=white" /></a>
+</p>
 
 ---
 
 ## 🏆 Certifications & Honors
 
-**Certifications:**
-- 🧠 **통계학을 통해 바라본 인공지능의 이해** — *Understanding AI Through Statistics: Python Data Analysis*  
-  Seoul City University (서울시립대학교) · 8-Week K-MOOC Program · **93.5%** Final Grade  
-  *Skills: Artificial Intelligence, Python, Data Analysis, Statistics*
-- 🧬 Introduction to Bioinformatics (120-Hour Professional Training)
-- 🤖 AI in Society — Tohoku University (社会の中のAI)
-- 📘 BOS 2.0 Practitioner Self-Paced Online Training
+**🧠 통계학을 통해 바라본 인공지능의 이해** — *Understanding AI Through Statistics*  
+Seoul City University (서울시립대학교) · 8-Week K-MOOC · **93.5%**  
+`Artificial Intelligence` · `Python` · `Data Analysis` · `Statistics`
 
-**Honors & Awards:**
-- 🥈 **2nd Place** — National Hapkido Championship 2025
-- 🎹 **5 Piano Concerts** (Solo & Ensemble)
-- 📝 Participant — 22nd Economic Essay Contest for University Students (The Korea Times)
+**🧬 Introduction to Bioinformatics** — 120-Hour Professional Training  
+**🤖 AI in Society** — Tohoku University (社会の中のAI)  
+**📘 BOS 2.0 Practitioner** — Self-Paced Online Training
+
+---
+
+## 🥋 Honors & Awards
+
+| 🥈 2nd Place | 🎹 5 Piano Concerts | 📝 Essay Contest |
+|:--:|:--:|:--:|
+| National Hapkido Championship 2025 | Solo & Ensemble | 22nd Economic Essay (The Korea Times) |
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**yein-store**](https://github.com/Amir01Mahdi01Mahboubi/yein-store) | Korean-English E-Commerce Platform | Next.js, TypeScript, Tailwind |
-| [**BioPyLab**](https://github.com/Amir01Mahdi01Mahboubi/BioPyLab) | Bioinformatics Desktop Suite for DNA/RNA/Protein | Python, PySide6 |
-| [**Grover-Quantum-Search-Simulator**](https://github.com/Amir01Mahdi01Mahboubi/Grover-Quantum-Search-Simulator) | Quantum Search Algorithm Simulator | Python, NumPy |
-| [**HANEUL-Korean-Skincare-Website**](https://github.com/Amir01Mahdi01Mahboubi/HANEUL-Korean-Skincare-Website) | Premium Korean skincare brand website | HTML, CSS, JS |
-| [**Urmia-Conference**](https://github.com/Amir01Mahdi01Mahboubi/Urmia-Conference) | Conference website | — |
-| [**bioinformatics-sequence-analysis-review**](https://github.com/Amir01Mahdi01Mahboubi/bioinformatics-sequence-analysis-review) | Research review on sequence analysis | Python |
+<p align="center">
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/yein-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=yein-store&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/BioPyLab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=BioPyLab&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/Grover-Quantum-Search-Simulator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=Grover-Quantum-Search-Simulator&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/HANEUL-Korean-Skincare-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=HANEUL-Korean-Skincare-Website&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
