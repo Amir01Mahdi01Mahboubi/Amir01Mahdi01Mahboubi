@@ -1,35 +1,28 @@
-<div align="center">
-
-  <!-- Animated Typing Header -->
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" />
   </a>
+</p>
 
-  <br><br>
-
-  <!-- Hero Banner -->
+<p align="center">
   <img src="./about-amir.png" alt="Amir Mahdi Mahboubi - Creative Developer & Entrepreneur" width="100%" />
+</p>
 
-  <br><br>
-
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
-  <!-- Yein Academy Typing Animation -->
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yein+Academy+;%EC%98%88%EC%9D%B8+%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8" alt="Typing SVG" />
   </a>
+</p>
 
-</div>
-
-<div align="center">
+<p align="center">
   <img src="./core-values.png" alt="Yein Academy Core Values" width="100%" />
-</div>
+</p>
 
 ---
 
@@ -132,11 +125,8 @@
 
 ---
 
-<div align="center">
-
-  <!-- Animated Typing Footer -->
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&pause=1000&width=435&lines=Building+bridges+between+Code%2C+Science%2C+and+Culture." alt="Typing SVG" />
   </a>
-
-</div>
+</p>
