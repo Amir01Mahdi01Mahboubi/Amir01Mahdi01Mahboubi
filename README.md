@@ -26,7 +26,7 @@
 
 ---
 
-## 🌐 About Me
+## 🚀 About Me
 
 - 🎓 **Computer Engineering Student** at Azad University (IAU)
 - 🏫 **Founder & CEO of [Yein Academy](https://github.com/Amir01Mahdi01Mahboubi)** — Korean Language Education Platform
@@ -74,10 +74,11 @@
 ## 🏆 Certifications & Honors
 
 **Certifications:**
+- 🧠 **통계학을 통해 바라본 인공지능의 이해** — *Understanding AI Through Statistics: Python Data Analysis*  
+  Seoul City University (서울시립대학교) · 8-Week K-MOOC Program · **93.5%** Final Grade  
+  *Skills: Artificial Intelligence, Python, Data Analysis, Statistics*
 - 🧬 Introduction to Bioinformatics (120-Hour Professional Training)
 - 🤖 AI in Society — Tohoku University (社会の中のAI)
-- ☕ Java Programming Certificate — Great Learning Academy
-- 🐍 Python Data Analysis & Statistics for AI
 - 📘 BOS 2.0 Practitioner Self-Paced Online Training
 
 **Honors & Awards:**
