@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 About Me
+## 🌐 About Me
 
 - 🎓 **Computer Engineering Student** at Azad University (IAU)
 - 🏫 **Founder & CEO of [Yein Academy](https://github.com/Amir01Mahdi01Mahboubi)** — Korean Language Education Platform
