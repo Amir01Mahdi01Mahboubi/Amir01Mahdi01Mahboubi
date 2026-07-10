@@ -1,7 +1,9 @@
 <div align="center">
 
   <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+PythonFastAPI;Computer+Engineering+Student" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
 
   <br><br>
 
@@ -59,12 +61,13 @@
 
 ## 📜 Publications & Research
 
-| Title | Focus |
-|-------|-------|
-| **A Study on a Digital Platform-Based Korean Language Education Model** | EdTech, Korean Language Learning, YEIN Academy Case Study |
-| **Comparative Review of DNA and RNA Sequence Analysis Tools in Modern Bioinformatics** | Bioinformatics, Computational Genomics, Sequence Analysis |
+| Title | Focus | Link |
+|-------|-------|------|
+| **A Study on a Digital Platform-Based Korean Language Education Model for Iranian Learners: Focusing on the Case of YEIN Academy** | EdTech, Korean Language Learning, Digital Platforms | [📄 DOI: 10.6084/m9.figshare.32907221](https://doi.org/10.6084/m9.figshare.32907221) |
+| **Comparative Review of DNA and RNA Sequence Analysis Tools in Modern Bioinformatics** | Bioinformatics, Computational Genomics, Sequence Analysis | — |
 
-🔗 **ORCID Profile:** [orcid.org/0009-0007-8924-4421](https://orcid.org/0009-0007-8924-4421)
+🔗 **ORCID:** [orcid.org/0009-0007-8924-4421](https://orcid.org/0009-0007-8924-4421)  
+🔗 **ResearchGate:** [Amir-Mahdi-Mahboubi](https://www.researchgate.net/profile/Amir-Mahdi-Mahboubi)
 
 ---
 
@@ -103,11 +106,17 @@
   <a href="https://www.linkedin.com/in/amir-mahdi-mahboubi-521542306/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dribbble.com/amir-mahdi-mahboubi">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <a href="https://www.researchgate.net/profile/Amir-Mahdi-Mahboubi">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
   </a>
   <a href="https://orcid.org/0009-0007-8924-4421">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/amir-mahdi-mahboubi">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="https://wa.me/989119904399">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="mailto:amir.mahdi.mahboubi2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -117,5 +126,10 @@
 ---
 
 <div align="center">
-  <i>Building bridges between Code, Science, and Culture. 🚀</i>
+
+  <!-- Animated Typing Footer -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&pause=1000&width=435&lines=Building+bridges+between+Code%2C+Science%2C+and+Culture." alt="Typing SVG" />
+  </a>
+
 </div>
