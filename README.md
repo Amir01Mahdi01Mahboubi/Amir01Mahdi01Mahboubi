@@ -1,28 +1,28 @@
-&lt;div align="center"&gt;
+<div align="center">
 
-  &lt;!-- Animated Typing Header --&gt;
-  &lt;a href="https://git.io/typing-svg"&gt;
-    &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" /&gt;
-  &lt;/a&gt;
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
 
-  &lt;br&gt;&lt;br&gt;
+  <br><br>
 
-  &lt;!-- Hero Banner --&gt;
-  &lt;img src="./about-amir.png" alt="Amir Mahdi Mahboubi - Creative Developer & Entrepreneur" width="100%" /&gt;
+  <!-- Hero Banner -->
+  <img src="./about-amir.png" alt="Amir Mahdi Mahboubi - Creative Developer & Entrepreneur" width="100%" />
 
-  &lt;br&gt;&lt;br&gt;
+  <br><br>
 
-  &lt;img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /&gt;
+  <img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-&lt;/div&gt;
+</div>
 
 ---
 
 ## 🏫 Yein Academy
 
-&lt;div align="center"&gt;
-  &lt;img src="./core-values.png" alt="Yein Academy Core Values" width="100%" /&gt;
-&lt;/div&gt;
+<div align="center">
+  <img src="./core-values.png" alt="Yein Academy Core Values" width="100%" />
+</div>
 
 ---
 
@@ -42,20 +42,20 @@
 
 ## 🛠️ Tech Stack
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
@@ -101,23 +101,23 @@
 
 ## 🌐 Connect With Me
 
-&lt;p align="center"&gt;
-  &lt;a href="https://www.linkedin.com/in/amir-mahdi-mahboubi-521542306/"&gt;
-    &lt;img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://dribbble.com/amir-mahdi-mahboubi"&gt;
-    &lt;img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="https://orcid.org/0009-0007-8924-4421"&gt;
-    &lt;img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /&gt;
-  &lt;/a&gt;
-  &lt;a href="mailto:amir.mahdi.mahboubi2005@gmail.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://www.linkedin.com/in/amir-mahdi-mahboubi-521542306/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dribbble.com/amir-mahdi-mahboubi">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0007-8924-4421">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
+  <a href="mailto:amir.mahdi.mahboubi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-&lt;div align="center"&gt;
-  &lt;i&gt;Building bridges between Code, Science, and Culture. 🚀&lt;/i&gt;
-&lt;/div&gt;
+<div align="center">
+  <i>Building bridges between Code, Science, and Culture. 🚀</i>
+</div>
