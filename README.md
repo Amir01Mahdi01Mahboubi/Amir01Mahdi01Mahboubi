@@ -1,11 +1,10 @@
 &lt;div align="center"&gt;
 
-  &lt;!-- Animated Typing Header --&gt;
   &lt;a href="https://git.io/typing-svg"&gt;
     &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Founder+of++Yein+Academy+%7C+++;Full-Stack+Developer+%7C+Python+%26+FastAPI;Computer+Engineering+Student" alt="Typing SVG" /&gt;
   &lt;/a&gt;
 
-  &lt;br&gt;
+  &lt;br&gt;&lt;br&gt;
   &lt;img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /&gt;
   
 &lt;/div&gt;
