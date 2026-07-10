@@ -40,10 +40,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amir01Mahdi01Mahboubi&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir01Mahdi01Mahboubi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -98,19 +98,32 @@ Seoul City University (서울시립대학교) · 8-Week K-MOOC · **93.5%**
 
 <p align="center">
   <a href="https://github.com/Amir01Mahdi01Mahboubi/yein-store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=yein-store&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Amir01Mahdi01Mahboubi/BioPyLab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=BioPyLab&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/🛒_yein--store-Next.js_•_TypeScript_•_Tailwind-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/BioPyLab">
+    <img src="https://img.shields.io/badge/🧬_BioPyLab-Python_•_PySide6-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  </a>
+</p>
 <p align="center">
   <a href="https://github.com/Amir01Mahdi01Mahboubi/Grover-Quantum-Search-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=Grover-Quantum-Search-Simulator&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/⚛️_Grover_Quantum-Python_•_NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/Amir01Mahdi01Mahboubi/HANEUL-Korean-Skincare-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amir01Mahdi01Mahboubi&repo=HANEUL-Korean-Skincare-Website&theme=tokyonight&hide_border=true" />
+    <img src="https://img.shields.io/badge/💄_HANEUL-HTML_•_CSS_•_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/Urmia-Conference">
+    <img src="https://img.shields.io/badge/🎓_Urmia_Conference-Web_Project-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Amir01Mahdi01Mahboubi/bioinformatics-sequence-analysis-review">
+    <img src="https://img.shields.io/badge/📑_Bioinformatics_Review-Python-2C5F2D?style=for-the-badge&logo=python&logoColor=white" />
   </a>
 </p>
 
