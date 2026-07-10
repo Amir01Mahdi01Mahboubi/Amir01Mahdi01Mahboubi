@@ -18,7 +18,14 @@
 
 ---
 
-## 🏫 Yein Academy
+<div align="center">
+
+  <!-- Yein Academy Typing Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Yein+Academy+;%EC%98%88%EC%9D%B8+%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8" alt="Typing SVG" />
+  </a>
+
+</div>
 
 <div align="center">
   <img src="./core-values.png" alt="Yein Academy Core Values" width="100%" />
@@ -64,7 +71,7 @@
 | Title | Focus | Link |
 |-------|-------|------|
 | **A Study on a Digital Platform-Based Korean Language Education Model for Iranian Learners: Focusing on the Case of YEIN Academy** | EdTech, Korean Language Learning, Digital Platforms | [📄 DOI: 10.6084/m9.figshare.32907221](https://doi.org/10.6084/m9.figshare.32907221) |
-| **Comparative Review of DNA and RNA Sequence Analysis Tools in Modern Bioinformatics** | Bioinformatics, Computational Genomics, Sequence Analysis | — |
+| **Comparative Review of DNA and RNA Sequence Analysis Tools in Modern Bioinformatics** | Bioinformatics, Computational Genomics, Sequence Analysis | [📄 DOI: 10.5281/zenodo.20763536](https://doi.org/10.5281/zenodo.20763536) |
 
 🔗 **ORCID:** [orcid.org/0009-0007-8924-4421](https://orcid.org/0009-0007-8924-4421)  
 🔗 **ResearchGate:** [Amir-Mahdi-Mahboubi](https://www.researchgate.net/profile/Amir-Mahdi-Mahboubi)
