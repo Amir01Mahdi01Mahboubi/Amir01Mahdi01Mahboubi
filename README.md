@@ -5,19 +5,22 @@
   </a>
 
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   
+  <!-- Hero Banner -->
+  <img src="./about-amir.png" alt="Amir Mahdi Mahboubi - Creative Developer & Entrepreneur" width="100%" />
+  
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Amir01Mahdi01Mahboubi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 🏫 Yein Academy
 
-- 🎓 **Computer Engineering Student**
-- 🏫 **Founder of Yein Academy**
-- 💻 **Full-Stack Developer** passionate about Python, FastAPI, and Next.js
-- 🧬 Interested in **Bioinformatics**, **Quantum Computing**, and **UX Research**
-- 🎨 Check out my design portfolio on **[Dribbble](https://dribbble.com/amir-mahdi-mahboubi)**
+<div align="center">
+  <img src="./core-values.png" alt="Yein Academy Core Values" width="100%" />
+</div>
 
 ---
 
@@ -34,15 +37,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir01Mahdi01Mahboubi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir01Mahdi01Mahboubi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </p>
 
 ---
